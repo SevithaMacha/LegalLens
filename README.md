@@ -16,7 +16,7 @@ LegalLens is an intelligent, multilingual system that:
 4. **Simplifies** complex legal language with a local **LLM (Llama 3 via Ollama)**
 5. **Detects risk alerts** — unusual penalties, rights restrictions, hidden fees
 6. **Assists form filling** with step-by-step guidance
-7. **Supports multilingual output** including Hindi, Telugu, Tamil, and more Indian languages
+7. **Supports multilingual output** in English, Telugu, and Hindi
 
 ---
 
@@ -152,7 +152,7 @@ Explanation
 
 ## 🌐 Supported Languages
 
-Hindi, Telugu, Tamil, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi, Odia
+English, Telugu, Hindi
 
 ---
 
