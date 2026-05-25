@@ -1,6 +1,6 @@
 # ⚖️ LegalLens — Multilingual AI Legal Document Assistant
 
-> BVRIT Hyderabad · Department of CSE · 2026  
+> BVRIT Hyderabad · Department of CSE · 2026
 > Team: P. Mounika · M. Bhavishya · M. Sevitha  
 > Guide: Ms. G. Rashmitha
 
